@@ -16,7 +16,4 @@ This repository includes a clone of the Algozenith website. The objective was to
 
 ## Deployment
 The cloned Algozenith website is currently deployed and accessible at the following URL:
-[//](https://az-bay.vercel.app/)
-
-## Feedback and Contributions
-If you have any feedback or suggestions for improving the Algozenith website clone, please feel free to open an issue in the repository. 
+[/https://algozenith-assignment-harshit.netlify.app//](https://algozenith-assignment-harshit.netlify.app//)
