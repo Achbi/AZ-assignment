@@ -1,4 +1,4 @@
-# Algozenith Website Clone
+# Algozenith Website Clone (Assignment)
 
 ## Overview
 This repository includes a clone of the Algozenith website. The objective was to recreate the essential functionality and design of the Algozenith site using modern web development technologies.
