@@ -55,7 +55,7 @@ const Main = () => {
 
           <Part 
             partNumber={1}
-            title="Lorem ipsum dolor sit amet"
+            title="Lorem ipsm dolor sit amet"
             duration="02:00:00"
             difficulty="Medium"
             copies={5}
